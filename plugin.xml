@@ -78,6 +78,12 @@
         <source-file src="src/android/layout_v13/foregroundcameraplugin.xml" target-dir="res/layout-v11" />
         <source-file src="src/android/layout_v13/foregroundcameraplugin.xml" target-dir="res/layout-v10" />
         <source-file src="src/android/layout_v13/foregroundcameraplugin.xml" target-dir="res/layout-v9" />
+        <source-file src="res/btn_shot.png" target-dir="res/drawable" />
+        <source-file src="res/btn_flip.png" target-dir="res/drawable" />
+        <source-file src="res/btn_flash_on.png" target-dir="res/drawable" />
+        <source-file src="res/btn_flash_no.png" target-dir="res/drawable" />
+        <source-file src="res/btn_flash_auto.png" target-dir="res/drawable" />
+        <source-file src="res/viewfinder.png" target-dir="res/drawable" />
               
      </platform>
            
